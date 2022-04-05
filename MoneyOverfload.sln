@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyOverfload", "MoneyOverfload\MoneyOverfload.csproj", "{3AC9F7E5-2944-4711-8285-C8CCD8220413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC9F7E5-2944-4711-8285-C8CCD8220413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC9F7E5-2944-4711-8285-C8CCD8220413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC9F7E5-2944-4711-8285-C8CCD8220413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC9F7E5-2944-4711-8285-C8CCD8220413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B8E6D6-E56E-4D6A-ACA9-19525A189E9D}
+	EndGlobalSection
+EndGlobal
